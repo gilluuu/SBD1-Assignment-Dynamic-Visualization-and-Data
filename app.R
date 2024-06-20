@@ -18,7 +18,7 @@ scrape_gdp_data <- function(url) {
   table <- page %>% html_table(fill = TRUE)
   gdp_data <- table[[2]]
   colnames(gdp_data) <- c("Rank", "Country", "GDP_per_capita")
-  gdp_data <- gdp_data %>% select(Country, GDP_per_capita)
+  gdp_data <- gdp_data %>% select(Country = `Country/Territory`, GDP_per_capita = `IMF Estimate`)
   return(gdp_data)
 }
 
