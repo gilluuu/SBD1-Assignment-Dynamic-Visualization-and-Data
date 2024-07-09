@@ -7,7 +7,7 @@ The Project can be found on Github (as a repository) as well as a deployed appli
 ## Github-Repository
 https://github.com/gilluuu/SBD1-Assignment-Dynamic-Visualization-and-Data
 
-## shinyapps.io
+## On shinyapps.io
 https://gillesnikles.shinyapps.io/SBD1-Assignment-Dynamic-Visualization-and-Data/
 
 # Task from Moodle
