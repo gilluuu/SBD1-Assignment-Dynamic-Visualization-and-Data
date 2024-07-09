@@ -1,0 +1,12 @@
+name: SBD1-Assignment-Dynamic-Visualization-and-Data
+title: SBD1-Assignment-Dynamic-Visualization-and-Data
+username: gillesnikles
+account: gillesnikles
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12294278
+bundleId: 8842114
+url: https://gillesnikles.shinyapps.io/SBD1-Assignment-Dynamic-Visualization-and-Data/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
